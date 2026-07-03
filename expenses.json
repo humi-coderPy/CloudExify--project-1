@@ -1,0 +1,62 @@
+[
+    {
+        "category": "2",
+        "amount": 4.0,
+        "note": "500"
+    },
+    {
+        "category": "food",
+        "amount": 500.0,
+        "note": "pizza"
+    },
+    {
+        "category": "2",
+        "amount": 3.0,
+        "note": "4"
+    },
+    {
+        "category": "food",
+        "amount": 500.0,
+        "note": "60"
+    },
+    {
+        "category": "food",
+        "amount": 500.0,
+        "note": "lunch"
+    },
+    {
+        "category": "food",
+        "amount": 1000.0,
+        "note": "dinner"
+    },
+    {
+        "category": "food,piza",
+        "amount": 3000.0,
+        "note": "dinner lunch"
+    },
+    {
+        "category": "food",
+        "amount": 690.0,
+        "note": "lunch"
+    },
+    {
+        "category": "food",
+        "amount": 5800.0,
+        "note": "lunch"
+    },
+    {
+        "category": "food",
+        "amount": 500.0,
+        "note": "lunch"
+    },
+    {
+        "category": "food",
+        "amount": 500.0,
+        "note": "dinner"
+    },
+    {
+        "category": "food",
+        "amount": 7000.0,
+        "note": "dinner"
+    }
+]
