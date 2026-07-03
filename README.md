@@ -3,7 +3,6 @@ CloudExify internship - project 1
 
 
 
-
 # Expense Tracker - CloudExify Project 1
 
 A console-based Expense Tracker application developed in Python for CloudExify Internship Project 1. This project demonstrates proficiency in core Python programming, file handling, and version control practices.
@@ -38,5 +37,4 @@ This application implements core Python concepts including modular functions, fi
 ## How to Run
 1. Ensure Python 3.x is installed on your system
 2. Download this repository
-3. Open terminal in the project folder
-4. Run the command:
+3. Open terminal in the
